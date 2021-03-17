@@ -11,7 +11,7 @@ html{
 .nav{
   
     text-align: center;
-    width: 1480px;
+  
     margin: 0 auto;
     padding-top: 15px;
 }
@@ -197,7 +197,7 @@ background: #fff;
 .blue{
     padding: 130px 0;
     background-color:  #5454D4;
-    width: 1480px;
+   
     margin: 0 auto;
 }
 .box1{
@@ -354,7 +354,7 @@ padding: 10px 15px;
     width: 100%;
     right: 0px;
 }
-.bgc{   width: 1480px;
+.bgc{  
     margin: 0 auto;
     position: relative;
     background: #F7F7FB;
@@ -456,7 +456,7 @@ right: 30px;
     position: relative;
     margin-top: 50px;
     padding-bottom: 20px;
-    width: 1480px;
+  
     margin: 0 auto;
    
 }
